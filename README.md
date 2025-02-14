@@ -3,3 +3,4 @@
 1. PRD on Salon [https://my-first-prd-on-salon.hashnode.dev/my-first-prdproduct-requirement-document-on-salon]
 2. National Film Awards Show 2025 using Array Methods [https://national-film-awards-show-2025.hashnode.dev/national-film-awards-show-2025]
 3. How to Create Your Own Polyfill in Easy Way in Hindi. [https://how-to-create-your-own-polyfill.hashnode.dev/how-to-create-your-own-polyfill-in-easy-way-in-hindi]
+4. Memory Management and Data Handling in Javascript in Hindi. [https://memory.hashnode.dev/memory-management-and-data-handling-in-javascript]
